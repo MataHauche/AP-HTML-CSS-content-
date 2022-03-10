@@ -24,7 +24,7 @@ article h2{
   font-size: 25px;
 }
 header{
-  background: red;
+  background: #E2382A;
   height: 100px;
   width: 100%;
   text-align: center;
@@ -43,7 +43,7 @@ nav ul li{
   line-height: 30px;
 }
 nav{
-  background: lightblue;
+  background: #E2942A;
   height: 50px;
   border-bottom: 1px solid black ;
 }
@@ -53,14 +53,15 @@ nav{
 #content{
   float: left;
   width: calc(80% - 80px);
-  background: green;
+  background: #2AE238
+  ;
   min-height: 500px;
   padding: 40px;
 }
 aside{
   float: left;
   width: calc(20% - 20px);
-  background: orange;
+  background: #D4E22A;
   min-height: 500px;
   /* con esta opción de padding aplico un padding general en las 4 direcciones.
   padding: 10px; 
@@ -72,7 +73,7 @@ aside{
 
 }
 footer{
-  background: black;
+  background: #2AE294;
   color: white;
   text-align: center;
   height: 50px;
